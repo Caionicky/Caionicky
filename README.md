@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Caio Bandeira
 Olá, me chamo Caio e estou em busca de oportunidades profissionais. Planejo incrementar meu GitHub com projetos e habilidades que vou desenvolver ao longo do tempo.
 
@@ -9,7 +7,8 @@ Olá, me chamo Caio e estou em busca de oportunidades profissionais. Planejo inc
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caionicky)
 [![EXPO](https://img.shields.io/badge/EXPO-000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@caionicky?tab=snacks)
 
-
+<details>
+<summary>Veja Mais</summary>
 ## Habilidades
 
 #### Linguagens de Programação:
@@ -56,3 +55,4 @@ Olá, me chamo Caio e estou em busca de oportunidades profissionais. Planejo inc
 ![Tela 2](https://img.shields.io/badge/🖥️_Monitor_LG_24"_FULLHD-000?style=for-the-badge&logo=lg&logoColor=FFF)
 ![Mouse](https://img.shields.io/badge/🖱️_OEX_WEAPON_MS317-000?style=for-the-badge&logoColor=FFF)
 ![Windows](https://img.shields.io/badge/Windows_11-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
+</details>
