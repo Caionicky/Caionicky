@@ -8,7 +8,8 @@ Olá, me chamo Caio e estou em busca de oportunidades profissionais. Planejo inc
 [![EXPO](https://img.shields.io/badge/EXPO-000?style=for-the-badge&logo=expo&logoColor=white)](https://expo.dev/@caionicky?tab=snacks)
 
 <details>
-<summary>Veja Mais</summary>
+<summary style="color: #8856D4;">Veja Mais</summary>
+
 ## Habilidades
 
 #### Linguagens de Programação:
